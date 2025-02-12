@@ -1,0 +1,8 @@
+# Ignore compiled Arduino files
+*.bin
+*.elf
+*.hex
+*.o
+
+# Ignore macOS system files
+.DS_Store
